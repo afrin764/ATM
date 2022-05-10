@@ -1,2 +1,2 @@
 # ATM
-Atm case Study project
+assignment on Atm case Study
